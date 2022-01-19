@@ -1,0 +1,19 @@
+{
+  "name": "ponyonsosuke",
+  "symbol": "SP",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "C67LjG1wVMjVEpYDqxzXCp6anAJXmw2kuM6JtYDjtZY1",
+        "share": 100
+      }
+    ]
+  }
+}

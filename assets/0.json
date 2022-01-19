@@ -1,0 +1,19 @@
+{
+  "name": "ponyo",
+  "symbol": "SP",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "C67LjG1wVMjVEpYDqxzXCp6anAJXmw2kuM6JtYDjtZY1",
+        "share": 100
+      }
+    ]
+  }
+}
