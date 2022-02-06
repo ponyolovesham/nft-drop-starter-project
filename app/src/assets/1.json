@@ -1,0 +1,19 @@
+{
+  "name": "PONYO",
+  "symbol": "PONY",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "C67LjG1wVMjVEpYDqxzXCp6anAJXmw2kuM6JtYDjtZY1",
+        "share": 100
+      }
+    ]
+  }
+}
